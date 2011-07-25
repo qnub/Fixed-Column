@@ -1,0 +1,7 @@
+protected/data/*
+protected/tests/report/*
+*~
+*.bak
+*.old
+.settings
+.project
